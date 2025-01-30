@@ -1,0 +1,8 @@
+<data>
+<table id="a" xmlns:hafsa1="http://hafsa1">
+<hafsa1:myname>hafsa</hafsa1:myname>
+</table>
+<table id="b" xmlns:samad1="http://samad1">
+<samad1:myname>Samad</samad1:myname>
+</table>   
+</data>
